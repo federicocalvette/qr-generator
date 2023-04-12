@@ -5,5 +5,6 @@ Run:
 python3 main.py
 ```
 
-Example
-![QR](https://user-images.githubusercontent.com/97620201/227272449-09174054-35c6-4669-8e78-f91ccc54c022.png)
+#### Example <br>
+
+![QR](https://user-images.githubusercontent.com/97620201/231517113-177ea733-80ec-4bc4-9b89-a4e4ccdae069.png)
